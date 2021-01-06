@@ -32,6 +32,6 @@
     "@types/node": "^8.0.47",
     "@types/ref": "0.0.28",
     "@types/ref-struct": "0.0.28",
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   }
 }
