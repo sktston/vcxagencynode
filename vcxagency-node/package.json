@@ -46,7 +46,7 @@
     "body-parser": "^1.18.3",
     "dotenv": "^7.0.0",
     "easy-indysdk": "file:../easy-indysdk",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-http-context": "^1.2.3",
     "express-prettify": "^0.1.1",
     "express-validation": "^1.0.2",
